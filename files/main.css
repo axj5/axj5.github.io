@@ -7,3 +7,4 @@ i {color:#aaa;font-size:10px;top:-2px;position:relative;}
 .indent {margin-left:20px;}
 .noclick {cursor:default;}
 .noclick:hover {padding-left:0px;border:none;color:#000;}
+.title {font-size:20px;font-weight:bold;}
