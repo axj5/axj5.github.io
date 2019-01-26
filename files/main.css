@@ -9,7 +9,7 @@ body {
 .bodystuff {
   max-width:400px;
   width:100%;
-  margin:10px;
+  margin:0px;
   overflow:auto;
   height:90vh;
   border-radius:10px;
